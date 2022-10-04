@@ -2,4 +2,4 @@
 
 This was Second Machine Learning project using Jupyter Noter book in Anaconda.
 
-Tensorflow concept was used to distinguish 2 different objects (cars vs motor cycles).
+Covolutional Neural Network (tensorflow) was used to distinguish 2 different objects (cars vs motor cycles).
